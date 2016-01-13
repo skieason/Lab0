@@ -2,6 +2,16 @@
   color: blue;
 }
 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+
 .menubar {
   background-color: #8cb2d9;
   width: 100%;
