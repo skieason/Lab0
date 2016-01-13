@@ -4,17 +4,15 @@
 
 ul {
     list-style-type: none;
-    margin: 0;
+    margin: -8;
+    background-color: #8cb2d9;
     padding: 0;
+    height: 65px;
 }
 
 li {
     display: inline;
-}
-
-.menubar {
-  background-color: #8cb2d9;
-  width: 100%;
+    color: white;
 }
 
 p {
