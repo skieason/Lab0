@@ -1,3 +1,12 @@
+header {
+  background-color: blue;
+  div {
+    h1 {
+      color: white;
+    }
+  }
+}
+
 p {
   color: blue;
 }
