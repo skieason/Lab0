@@ -1,6 +1,10 @@
 .top {
   color: blue;
-  display: inline-block;
+}
+
+.menubar {
+  background-color: #8cb2d9;
+  width: 100%;
 }
 
 p {
