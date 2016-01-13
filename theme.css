@@ -1,10 +1,6 @@
 header {
   background-color: blue;
-  div {
-    h1 {
-      color: white;
-    }
-  }
+  display: inline;
 }
 
 p {
