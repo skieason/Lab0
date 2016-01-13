@@ -1,5 +1,6 @@
 .top {
   color: blue;
+  display: inline-block;
 }
 
 p {
