@@ -25,6 +25,10 @@ a {
   color: white;
 }
 
+.alta {
+  color: red !important;
+}
+
 .welcome {
   text-align: center;
   margin-top: 8px;
