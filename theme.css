@@ -19,9 +19,10 @@ li {
 .welcome {
   text-align: center;
   margin-top: 8px;
+  height: 30px;
 }
 
-#philandparispic {
+.philandparispic {
   height: 800px;
   width: auto;
 }
