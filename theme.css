@@ -16,6 +16,13 @@ li {
     margin-left: 30px;
 }
 
+span {
+  a {
+    text-decoration: none;
+    color: white;
+  }
+}
+
 .welcome {
   text-align: center;
   margin-top: 8px;
