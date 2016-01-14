@@ -2,7 +2,7 @@
   color: blue;
 }
 
-ul {
+.nav {
     list-style-type: none;
     margin: -8px;
     background-color: #8cb2d9;
@@ -10,7 +10,7 @@ ul {
     height: 65px;
 }
 
-li {
+.navli {
     display: inline;
     color: white;
     margin-left: 30px;
