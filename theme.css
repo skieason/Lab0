@@ -17,8 +17,12 @@ li {
 }
 
 .welcome {
-  height: 400px;
-  width: 400px;
+  align: center;
+  margin-top: 555px;
+}
+
+img {
+  height: 555px;
 }
 
 .pdf {
