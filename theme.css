@@ -20,13 +20,13 @@ span {
   margin-top: 5px;
 }
 
-a {
+.navlink {
   text-decoration: none;
   color: white;
 }
 
 .alta {
-  color: red !important;
+  color: red;
 }
 
 .welcome {
