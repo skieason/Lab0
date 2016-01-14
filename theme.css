@@ -16,6 +16,16 @@ li {
     margin-left: 30px;
 }
 
+.welcome {
+  align: center;
+  margin-top: 8px;
+}
+
+#philandparispic {
+  height: 300px;
+  width: auto;
+}
+
 .pdf {
   align: center;
   margin-top: 8px;
