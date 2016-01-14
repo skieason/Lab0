@@ -17,7 +17,7 @@ li {
 }
 
 .welcome {
-  align: center;
+  text-align: center;
   margin-top: 8px;
 }
 
@@ -44,5 +44,5 @@ table {
 }
 
 th {
-    height: 40px; 
+    height: 40px;
 }
