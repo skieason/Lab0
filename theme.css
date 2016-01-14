@@ -7,7 +7,7 @@
     margin: -8px;
     background-color: #8cb2d9;
     padding: 0;
-    height: 65px;
+    height: 35px;
 }
 
 .navli {
@@ -40,7 +40,7 @@ img {
 }
 
 p {
-  color: blue;
+  color: black;
 }
 
 table, td, th {
