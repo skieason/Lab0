@@ -35,8 +35,11 @@ span {
 }
 
 .currentforcast {
-  text-align: center;
   margin-top: 8px;
+}
+
+.picofday {
+  text-align: center;
 }
 
 img {
