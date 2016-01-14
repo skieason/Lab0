@@ -34,6 +34,11 @@ span {
   margin-top: 8px;
 }
 
+.currentforcast {
+  text-align: center;
+  margin-top: 8px;
+}
+
 img {
   height: 555px;
 }
