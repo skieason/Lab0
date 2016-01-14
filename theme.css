@@ -16,6 +16,11 @@ li {
     margin-left: 30px;
 }
 
+.pdf {
+  align: center;
+  margin-top: 8px;
+}
+
 p {
   color: blue;
 }
